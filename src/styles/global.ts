@@ -76,7 +76,6 @@ export const GlobalStyle = createGlobalStyle`
         position: relative;
     }
 
-
     .btn-close-modal {
     position: absolute;
     top: 1.5rem;
