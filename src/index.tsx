@@ -19,7 +19,6 @@ createServer({
           amount: 6000,
           createdAt: new Date('2022-02-12 09:00:00')
         }
-
       ]
     })
   },
